@@ -3,4 +3,6 @@ numpy
 pytest
 flake8
 mypy
+matplotlib
 pyyaml
+scikit-learn
