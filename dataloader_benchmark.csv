@@ -1,0 +1,9 @@
+num_workers,pin_memory,time_seconds
+0,False,0.0756
+0,True,0.0528
+2,False,0.2347
+2,True,0.2229
+4,False,0.2565
+4,True,0.2407
+8,False,0.3492
+8,True,0.2931
